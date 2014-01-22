@@ -1,4 +1,4 @@
 jonrandoem.github.io
 ====================
 
-jonrandoem pages
+This repository contains the code of [my website](http://jonrandoem.github.io).
