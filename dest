@@ -1,0 +1,17 @@
+/* The humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+	Lead: jonrandoem
+	Site: http://www.jonrandoem.com
+	Location: Netherlands
+
+/* SITE */
+	Last update: 2014/1/27
+	Version: 0.1.1
+	Site Url: 
+	Keywords: 
+	Language: English
+	Standards: HTML5, CSS3, Javascript
+	Components: Modernizr, jQuery, Bootstrap, Font-Awesome
+	Software: Git, Grunt, Bower, Node.js, NPM, Github pages, Jekyll
